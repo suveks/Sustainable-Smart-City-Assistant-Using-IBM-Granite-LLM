@@ -1,0 +1,7 @@
+streamlit
+prophet
+transformers
+scikit-learn
+pandas
+plotly
+
